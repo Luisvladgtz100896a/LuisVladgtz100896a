@@ -15,3 +15,17 @@ Soy apasionado de python, css y c#
 Me encanta el Box y la lucha GrecoRomana 🤼 🥊
 
 Si juegas League Of Legends..... mejor create un tinder.
+
+
+
+| Hora- Dia      | Lunes          | Martes         | Miercoles           | Jueves         | Viernes             |   |   |   |   |
+|----------------|----------------|----------------|---------------------|----------------|---------------------|---|---|---|---|
+| 8:00 - 9:00 AM | Topicos        | Topicos        | Topicos             | Topicos        | Topicos             |   |   |   |   |
+| 9 - 10         |                |                |                     |                |                     |   |   |   |   |
+| 10 - 11        |                |                | Cultura Empresarial |                | Cultura Empresarial |   |   |   |   |
+| 11 - 12        |                |                |                     |                |                     |   |   |   |   |
+| 12 - 1         |                |                |                     |                |                     |   |   |   |   |
+| 1:00 - 2:00 PM | 1:00 - 2:00 PM | 1:00 - 2:00 PM | 1:00 - 2:00 PM      | 1:00 - 2:00 PM | 1:00 - 2:00 PM      |   |   |   |   |
+| 2 - 3 pm       |                |                |                     |                |                     |   |   |   |   |
+|                |                |                |                     |                |                     |   |   |   |   |
+|                |                |                |                     |                |                     |   |   |   |   |
